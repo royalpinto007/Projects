@@ -2,7 +2,7 @@
 
 ## Based on Web Development using HTML, CSS and JavaScript
 
-- Survey Form - [https://royalpinto007.github.io/Survey-Form/] \
+- Survey Form - [Link][https://royalpinto007.github.io/Survey-Form/] \
 A survey form to collect data from users which is built using HTML and CSS.
 
 - Technical Documentation Page - [https://royalpinto007.github.io/Technical-Documentation-Page/] \
