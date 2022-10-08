@@ -2,7 +2,7 @@
 
 ## Based on Web Development using HTML, CSS and JavaScript
 
-- Survey Form - [Link][https://royalpinto007.github.io/Survey-Form/] \
+- Survey Form - [Link][Link1] \
 A survey form to collect data from users which is built using HTML and CSS.
 
 - Technical Documentation Page - [https://royalpinto007.github.io/Technical-Documentation-Page/] \
@@ -41,3 +41,6 @@ In this project, I have built a coffee machine simulator.
 The machine works with typical products: coffee, milk, sugar, and plastic cups; if it runs out of something, it shows a notification. 
 You can get three types of coffee: espresso, cappuccino, and latte. Since nothing’s for free, it also collects the money.
 It helped me get comfortable with functions, loops and conditions in Kotlin.
+
+
+[Link1]: https://royalpinto007.github.io/Survey-Form/
