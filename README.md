@@ -1,4 +1,4 @@
-# My-Projects
+# Projects
 
 ## Based on Web Development using HTML, CSS and JavaScript
 
