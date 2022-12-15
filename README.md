@@ -21,6 +21,10 @@ A portfolio website built using HTML, CSS and JavaScript. (Just for Practice and
 Zomato clone is a food delivery website that allows restaurants to start online services and achieve higher revenues, built using HTML, CSS and JavaScript.
 {Note- Not optimised for mobile view}
 
+- TinDog - [Link][Link10]{:target="_blank" rel="noopener"}  \
+This project converts a provided currency to another. 
+I improved my programming skills with JavaScript and got more comfortable using it!
+
 - Simple Currency Converter (Present) \
 This project converts a provided currency to another. 
 I improved my programming skills with JavaScript and got more comfortable using it!
@@ -52,3 +56,4 @@ It helped me get comfortable with functions, loops and conditions in Kotlin.
 [Link7]: https://royalpinto007.github.io/Simple-Chatty-Bot/
 [Link8]: https://royalpinto007.github.io/Zookeeper/
 [Link9]: https://royalpinto007.github.io/Coffee-Machine/
+[Link10]: https://royalpinto007.github.io/TinDog/
