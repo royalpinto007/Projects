@@ -22,8 +22,7 @@ Zomato clone is a food delivery website that allows restaurants to start online 
 {Note- Not optimised for mobile view}
 
 - TinDog - [Link][Link10]{:target="_blank" rel="noopener"}  \
-This project converts a provided currency to another. 
-I improved my programming skills with JavaScript and got more comfortable using it!
+TinDog is a clone website of Tinder, a dating website. (similar, not fully same)
 
 - Simple Currency Converter (Present) \
 This project converts a provided currency to another. 
